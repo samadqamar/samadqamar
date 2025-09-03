@@ -11,17 +11,17 @@ Senior Unity Game Developer with 8+ years of experience building games for Deskt
 📍 Shah Alam, Malaysia | 📧 [samadqamar755@gmail.com](mailto:samadqamar755@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/samad-qamar) | 🌐 [GitHub](https://github.com/samadqamar)
 
 ## 🛠️ Skills
-<div>
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity" alt="Unity"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana" alt="Solana"/>
-  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/-Photon-006CA9?style=flat-square" alt="Photon"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/-Blender-F28C38?style=flat-square&logo=blender" alt="Blender"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" alt="AWS"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Photon-006CA9?style=for-the-badge&logo=photon&logoColor=white" alt="Photon" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Blender-F28C38?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="height: 40px;"/>
 </div>
 
 ## 💼 Experience
@@ -38,9 +38,9 @@ Senior Unity Game Developer with 8+ years of experience building games for Deskt
 
 ## 📸 Showcase
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; justify-items: center; padding: 10px;">
-  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-05-19 031906" src="https://github.com/user-attachments/assets/ab1a2296-687f-4861-9d29-cc53f224c7f8" />
-  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-22 223641" src="https://github.com/user-attachments/assets/5487f334-62fd-48ef-9889-e38a090e7eaa" />
-  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="screenshot_2025-08-16_18-22-45" src="https://github.com/user-attachments/assets/2115db0c-5db7-4c78-b25c-ef4011f8a169" />
+  <img style="width: 280px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-05-19 031906" src="https://github.com/user-attachments/assets/ab1a2296-687f-4861-9d29-cc53f224c7f8" />
+  <img style="width: 280px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-22 223641" src="https://github.com/user-attachments/assets/5487f334-62fd-48ef-9889-e38a090e7eaa" />
+  <img style="width: 280px; height: 190px; object-fit: cover; border-radius: 8px;" alt="screenshot_2025-08-16_18-22-45" src="https://github.com/user-attachments/assets/2115db0c-5db7-4c78-b25c-ef4011f8a169" />
   <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2024-01-06 050740" src="https://github.com/user-attachments/assets/21c4d96e-727d-4ff7-b268-78b91fdcc04d" />
   <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-07 155144" src="https://github.com/user-attachments/assets/0bafaa06-833d-4647-ab4e-9ee971d486d7" />
   <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-11-12 191433" src="https://github.com/user-attachments/assets/a71e0ebe-da8d-438a-9f07-1c171a8dc836" />
