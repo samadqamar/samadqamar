@@ -94,10 +94,7 @@ Senior Unity Game Developer with 8+ years of experience building games for Deskt
     </ul>
   </div>
 </div>
-## 🎮 Projects
-- **Golden Inuverse**: Web3 MMO RPG with 21x10 km map and Solana integration.
-- **Kompete Clone**: Multi-genre game (FPS, racing) with 15x18 km map on BSC.
-- **Smart VR Arena**: Unity VR system syncing real-world spatial data.
+
 
 ## 📸 Showcase
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; justify-items: center; padding: 10px;">
