@@ -14,14 +14,40 @@ Senior Unity Game Developer with 8+ years of experience building games for Deskt
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="height: 40px;"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt=".NET" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="height: 40px;"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 40px;"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Anchor-FF2D20?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/HLSL-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="HLSL" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Mirror-000000?style=for-the-badge&logo=network&logoColor=white" alt="Mirror" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Photon%20Fusion-006CA9?style=for-the-badge&logo=photon&logoColor=white" alt="Photon Fusion" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Quantum-000000?style=for-the-badge&logo=quantum&logoColor=white" alt="Quantum" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Photon%20PUN2-006CA9?style=for-the-badge&logo=photon&logoColor=white" alt="Photon PUN2" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Unity%20NetCode-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity NetCode" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/PlayFab-00A3E0?style=for-the-badge&logo=playfab&logoColor=white" alt="PlayFab" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Unity%20Cloud-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Cloud" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Plastic%20SCM-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Plastic SCM" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Blender-F28C38?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Substance%20Painter-000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Substance Painter" style="height: 40px;"/>
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" style="height: 40px;"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="height: 40px;"/>
-  <img src="https://img.shields.io/badge/Photon-006CA9?style=for-the-badge&logo=photon&logoColor=white" alt="Photon" style="height: 40px;"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="height: 40px;"/>
-  <img src="https://img.shields.io/badge/Blender-F28C38?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="height: 40px;"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="BSC" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Shader%20Graph-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Shader Graph" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/VFX%20Graph-000000?style=for-the-badge&logo=unity&logoColor=white" alt="VFX Graph" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/ML%20Agents-000000?style=for-the-badge&logo=unity&logoColor=white" alt="ML Agents" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/DOTS-000000?style=for-the-badge&logo=unity&logoColor=white" alt="DOTS" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/UI%20Toolkit-000000?style=for-the-badge&logo=unity&logoColor=white" alt="UI Toolkit" style="height: 40px;"/>
 </div>
 
 ## 💼 Experience
