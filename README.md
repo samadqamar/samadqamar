@@ -1,9 +1,9 @@
 # 👋 Samad Qamar
 
-<div align="center" style="position: relative; width: 100%; height: 200px; background: url('https://raw.githubusercontent.com/samadqamar/samadqamar/refs/heads/main/images/bg.png') no-repeat center; background-size: cover;">
-  <img src="https://via.placeholder.com/150x150.png?text=Samad+Qamar" alt="Overlay Image" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; border: 3px solid #ffffff;"/>
+<div>
   <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">Senior Unity Game Developer | Blockchain & AR/VR Specialist</h3>
 </div>
+<img width="2305" height="1015" alt="bg" src="https://github.com/user-attachments/assets/1803b31a-ad31-4ac6-9b9c-83f590758f0d" />
 
 ## 🌟 About Me
 Senior Unity Game Developer with 8+ years of experience building games for Desktop, WebGL, iOS, and Android. Expert in multiplayer programming, AR/VR, Web3 integration, and 3D modeling. Passionate about creating immersive experiences.
