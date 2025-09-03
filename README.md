@@ -1,6 +1,6 @@
 # 👋 Samad Qamar
 
-<div align="center" style="position: relative; width: 100%; height: 200px; background: url('images/Annotation 2025-08-14 051216.png') no-repeat center; background-size: cover;">
+<div align="center" style="position: relative; width: 100%; height: 200px; background: url('samadqamar/images/Annotation 2025-08-14 051216.png') no-repeat center; background-size: cover;">
   <img src="https://via.placeholder.com/150x150.png?text=Samad+Qamar" alt="Overlay Image" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border-radius: 50%; border: 3px solid #ffffff;"/>
   <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">Senior Unity Game Developer | Blockchain & AR/VR Specialist</h3>
 </div>
