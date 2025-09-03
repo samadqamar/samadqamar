@@ -5,14 +5,22 @@
 <div>
   <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">Senior Unity Game Developer | Blockchain & AR/VR Specialist</h3>
 </div>
-<img align="right" alt="Profile Image" width="400" src="https://github.com/user-attachments/assets/06eb19c5-c790-4c9e-83a9-9005d79eeb18">
-## 🌟 About Me
-Senior Unity Game Developer with 8+ years of experience buildinggames for
-Desktop, WebGL, iOS, and Android. Expert in multiplayer programming, AR/VR,
-Web3 integration, and 3D modeling. Passionate about creating immersive experiences.</br>
-📍 Shah Alam, Malaysia | 📧samadqamar755@gmail.com | 🔗https://www.linkedin.com/in/samad-qamar
+<img align="right" alt="Profile Image" width="500" src="https://github.com/user-attachments/assets/06eb19c5-c790-4c9e-83a9-9005d79eeb18">
 
-
+<div>
+  <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">🌟About Me</h3>
+</div>
+<div align="left">
+Senior Unity Game Developer and Designer with multiple published games for all Desktop platforms, WebGL, AppStore and on GooglePlay Store. I have 8+ years of progressive experience spanning Multiplayer programming, AR/VR games, Level Design, 3D Modelling, Blockchain Integration and Machine Learning. 
+</br>
+📍 Shah Alam, Malaysia </br>  
+  <a href="mailto:samadqamar755@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a><br>
+<a href="https://www.linkedin.com/in/samad-qamar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a><br>
+<a href="https://www.instagram.com/_unbound_x?igsh=NmJ6MzV4bng4eHB3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram" alt="Instagram"/></a><br>
+<a href="https://x.com/_unboundX"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X"/></a>
+</div>
+</br>
+</br>
 <div>
   <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">🛠️ Skills</h3>
 </div>
@@ -56,6 +64,7 @@ Web3 integration, and 3D modeling. Passionate about creating immersive experienc
 </div>
 
 ## 💼 Experience
+
 
 <div style="display: grid; gap: 20px; padding: 10px;">
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
