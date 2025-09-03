@@ -144,6 +144,8 @@ University of South Asia (2018-2022)
 
 ## 📬 Connect
 <div align="center">
-  <a href="mailto:samadqamar755@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/samad-qamar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+ <a href="mailto:samadqamar755@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/samad-qamar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_unbound_x?igsh=NmJ6MzV4bng4eHB3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+<a href="https://x.com/_unboundX"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X"/></a>
 </div>
