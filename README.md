@@ -9,8 +9,8 @@
 ## 🌟 About Me
 Senior Unity Game Developer with 8+ years of experience buildinggames for
 Desktop, WebGL, iOS, and Android. Expert in multiplayer programming, AR/VR,
-Web3 integration, and 3D modeling. Passionate about creating immersive experiences.
-📍 Shah Alam, Malaysia | 📧 [samadqamar755@gmail.com](mailto:samadqamar755@gmail.com) |<br> 🔗 [LinkedIn](https://www.linkedin.com/in/samad-qamar)
+Web3 integration, and 3D modeling. Passionate about creating immersive experiences.</br>
+📍 Shah Alam, Malaysia | 📧samadqamar755@gmail.com | 🔗https://www.linkedin.com/in/samad-qamar
 
 
 <div>
