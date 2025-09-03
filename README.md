@@ -1,15 +1,23 @@
+<img width="2305" height="500" alt="bg" src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" />
+
 # 👋 Samad Qamar
 
 <div>
   <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">Senior Unity Game Developer | Blockchain & AR/VR Specialist</h3>
 </div>
-<img width="2305" height="1015" alt="bg" src="https://github.com/user-attachments/assets/1803b31a-ad31-4ac6-9b9c-83f590758f0d" />
 
 ## 🌟 About Me
-Senior Unity Game Developer with 8+ years of experience building games for Desktop, WebGL, iOS, and Android. Expert in multiplayer programming, AR/VR, Web3 integration, and 3D modeling. Passionate about creating immersive experiences.
-
-📍 Shah Alam, Malaysia | 📧 [samadqamar755@gmail.com](mailto:samadqamar755@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/samad-qamar) | 🌐 [GitHub](https://github.com/samadqamar)
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    Senior Unity Game Developer with 8+ years of experience building games for<br>
+    Desktop, WebGL, iOS, and Android. Expert in multiplayer programming, AR/VR,<br>
+    Web3 integration, and 3D modeling. Passionate about creating immersive experiences.<br><br>
+    📍 Shah Alam, Malaysia | 📧 [samadqamar755@gmail.com](mailto:samadqamar755@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/samad-qamar) | 🌐 [GitHub](https://github.com/samadqamar)
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/06eb19c5-c790-4c9e-83a9-9005d79eeb18" alt="Profile Image" style="width: 150px; height: auto; margin-left: 20px; border-radius: 10px;">
+  </div>
+</div>
 ## 🛠️ Skills
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="height: 40px;"/>
