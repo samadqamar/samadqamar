@@ -25,11 +25,48 @@ Senior Unity Game Developer with 8+ years of experience building games for Deskt
 </div>
 
 ## 💼 Experience
-- **Voxan Solution Sdn Bhd** (2025-Present): Built Android shooting game, Hill Climb Racing clone with Web3, and Smart VR arena.
-- **GateGames** (2023-2024): Developed *Stellaverse* (MMO RPG) and *Galixity* (shooter) with Web3 and multiplayer.
-- **SilverBack Events** (2022-2023): Created digital twins for arenas with 5,000+ users using Unity and Mirror.
-- **Trenches Gaming LTD** (2020-2022): Led robot game with ML Agents and mobile-optimized shaders.
-- **Pixel Ingot Games** (2016-Present): Built *Golden Inuverse* (Web3 MMO), *Kompete* clone, and games on Steam, iOS, Android.
+<div style="display: grid; gap: 20px; padding: 10px;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; background-color: #e6f3fa;">
+    <h3 style="margin: 0; color: #24292e;">🎮 <strong>Voxan Solution Sdn Bhd</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2025 - Present, Kuala Lumpur, Malaysia)</span></h3>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Built Android shooting game and Hill Climb Racing clone with Web3 integration on BSC.</li>
+      <li>Developed Smart VR arena in Unity, syncing real-world spatial data.</li>
+      <li>Created POS system for automated coffee machine and Coin ICO system with staking features.</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; background-color: #fef6e7;">
+    <h3 style="margin: 0; color: #24292e;">🚀 <strong>GateGames</strong> <span style="font-size: 0.9em; color: #586069;">(Mar 2023 - Dec 2024, Hanoi, Vietnam, Remote)</span></h3>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Developed <em>Stellaverse</em> (MMO RPG) and <em>Galixity</em> (shooter) with Web3 and cross-platform multiplayer.</li>
+      <li>Built dashboards for NPC, quest, and reward management using Firebase.</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; background-color: #e7f4e9;">
+    <h3 style="margin: 0; color: #24292e;">🏟️ <strong>SilverBack Events</strong> <span style="font-size: 0.9em; color: #586069;">(Feb 2022 - Jan 2023, Brisbane, Australia, Contract)</span></h3>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Created digital twins for arenas and exhibition halls, supporting 5,000+ concurrent users with Mirror networking.</li>
+      <li>Implemented real-time user tracking and dynamic content streaming with PlayFab and AssetBundles.</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; background-color: #f0e7f9;">
+    <h3 style="margin: 0; color: #24292e;">🤖 <strong>Trenches Gaming LTD</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2020 - Jan 2022, Southampton, UK, Remote)</span></h3>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Led robot game with ML Agents for adaptive NPCs and developed mobile-optimized shaders.</li>
+      <li>Designed space-themed parking game and cinematic levels for an animated series.</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s; background-color: #fce7e9;">
+    <h3 style="margin: 0; color: #24292e;">🎨 <strong>Pixel Ingot Games</strong> <span style="font-size: 0.9em; color: #586069;">(Oct 2016 - Present)</span></h3>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>Built <em>Golden Inuverse</em> (Web3 MMO), <em>Kompete</em> clone, and games on Steam, iOS, Android.</li>
+      <li>Developed large-scale games like a zombie apocalypse and farming simulator with DOTS and Firebase.</li>
+    </ul>
+  </div>
+</div>
 
 ## 🎮 Projects
 - **Golden Inuverse**: Web3 MMO RPG with 21x10 km map and Solana integration.
