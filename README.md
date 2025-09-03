@@ -37,12 +37,32 @@ Senior Unity Game Developer with 8+ years of experience building games for Deskt
 - **Smart VR Arena**: Unity VR system syncing real-world spatial data.
 
 ## 📸 Showcase
-<div align="center">
-  <img src="https://via.placeholder.com/200x150.png?text=Golden+Inuverse" alt="Golden Inuverse" width="200"/>
-  <img src="https://via.placeholder.com/200x150.png?text=Kompete+Clone" alt="Kompete Clone" width="200"/>
-  <img src="https://via.placeholder.com/200x150.png?text=Smart+VR+Arena" alt="Smart VR Arena" width="200"/>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; justify-items: center; padding: 10px;">
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-05-19 031906" src="https://github.com/user-attachments/assets/ab1a2296-687f-4861-9d29-cc53f224c7f8" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-22 223641" src="https://github.com/user-attachments/assets/5487f334-62fd-48ef-9889-e38a090e7eaa" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="screenshot_2025-08-16_18-22-45" src="https://github.com/user-attachments/assets/2115db0c-5db7-4c78-b25c-ef4011f8a169" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2024-01-06 050740" src="https://github.com/user-attachments/assets/21c4d96e-727d-4ff7-b268-78b91fdcc04d" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-07 155144" src="https://github.com/user-attachments/assets/0bafaa06-833d-4647-ab4e-9ee971d486d7" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-11-12 191433" src="https://github.com/user-attachments/assets/a71e0ebe-da8d-438a-9f07-1c171a8dc836" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-08-14 035814" src="https://github.com/user-attachments/assets/4774c3d6-a94d-4156-9746-6a2fc90ea816" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-07 155611" src="https://github.com/user-attachments/assets/13af6a2b-fc62-4570-b2fe-e09cdbd2df7b" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="image (1)" src="https://github.com/user-attachments/assets/660d3e63-0c7b-4403-9c35-abaf2d3f2bdf" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-08-25 054921" src="https://github.com/user-attachments/assets/4d973f86-c500-4231-b6da-c1690a0e77c2" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-19 041615" src="https://github.com/user-attachments/assets/17a73c1a-2d8d-4145-8700-3bfa829bd606" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-19 041413" src="https://github.com/user-attachments/assets/91fba04b-40e8-4b39-aef2-2a97294f7ebf" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-19 040905" src="https://github.com/user-attachments/assets/7a6cb555-79d4-483a-b09b-fc498a3c50db" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="image" src="https://github.com/user-attachments/assets/12427c60-79f2-4efc-bca1-8c91b90d2027" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2024-11-29 025816" src="https://github.com/user-attachments/assets/4bd76c28-6a64-4457-bedc-5d8895e0dbf8" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-13 235146" src="https://github.com/user-attachments/assets/1a2f6158-4f28-4401-a8ac-5d93b4e9481c" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-13 235234" src="https://github.com/user-attachments/assets/6d226810-d7db-47d8-a266-5cc2bd15b00e" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-25 000924" src="https://github.com/user-attachments/assets/8a1612ed-551c-43d6-a656-29ea5bfefa2a" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-25 000952" src="https://github.com/user-attachments/assets/57863c51-2abf-4e23-b213-1e8a96c35b8d" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-02-25 001013" src="https://github.com/user-attachments/assets/3a17059f-a286-48db-bc71-9d77eaa445bb" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-04-06 135751" src="https://github.com/user-attachments/assets/8d36a2c2-b2e8-4186-8804-dc486a83f998" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-04-08 163615" src="https://github.com/user-attachments/assets/ed0e2495-9158-4f62-bb6b-98e14df4daa2" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-04-08 191237" src="https://github.com/user-attachments/assets/dba805ae-1f90-44b5-8569-820299ec495e" />
+  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-04-12 022510" src="https://github.com/user-attachments/assets/93672274-6271-4942-9bc7-d3f6515c514f" />
 </div>
-<p align="center"><i>Replace placeholders with project screenshots/GIFs from your repository (e.g., images/project-name.png).</i></p>
 
 ## 🎓 Education
 **BSc Computer Science**  
