@@ -38,11 +38,11 @@ Senior Unity Game Developer with 8+ years of experience building games for Deskt
 
 ## 📸 Showcase
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; justify-items: center; padding: 10px;">
-  <img style="width: 280px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-05-19 031906" src="https://github.com/user-attachments/assets/ab1a2296-687f-4861-9d29-cc53f224c7f8" />
-  <img style="width: 280px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-22 223641" src="https://github.com/user-attachments/assets/5487f334-62fd-48ef-9889-e38a090e7eaa" />
-  <img style="width: 280px; height: 190px; object-fit: cover; border-radius: 8px;" alt="screenshot_2025-08-16_18-22-45" src="https://github.com/user-attachments/assets/2115db0c-5db7-4c78-b25c-ef4011f8a169" />
-  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2024-01-06 050740" src="https://github.com/user-attachments/assets/21c4d96e-727d-4ff7-b268-78b91fdcc04d" />
-  <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-07 155144" src="https://github.com/user-attachments/assets/0bafaa06-833d-4647-ab4e-9ee971d486d7" />
+  <img style="width: 260px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-05-19 031906" src="https://github.com/user-attachments/assets/ab1a2296-687f-4861-9d29-cc53f224c7f8" />
+  <img style="width: 260px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-22 223641" src="https://github.com/user-attachments/assets/5487f334-62fd-48ef-9889-e38a090e7eaa" />
+  <img style="width: 260px; height: 190px; object-fit: cover; border-radius: 8px;" alt="screenshot_2025-08-16_18-22-45" src="https://github.com/user-attachments/assets/2115db0c-5db7-4c78-b25c-ef4011f8a169" />
+  <img style="width: 260px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2024-01-06 050740" src="https://github.com/user-attachments/assets/21c4d96e-727d-4ff7-b268-78b91fdcc04d" />
+  <img style="width: 260px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-07 155144" src="https://github.com/user-attachments/assets/0bafaa06-833d-4647-ab4e-9ee971d486d7" />
   <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-11-12 191433" src="https://github.com/user-attachments/assets/a71e0ebe-da8d-438a-9f07-1c171a8dc836" />
   <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-08-14 035814" src="https://github.com/user-attachments/assets/4774c3d6-a94d-4156-9746-6a2fc90ea816" />
   <img style="width: 330px; height: 190px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-07 155611" src="https://github.com/user-attachments/assets/13af6a2b-fc62-4570-b2fe-e09cdbd2df7b" />
