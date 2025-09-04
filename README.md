@@ -93,7 +93,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #f0e7f9; color: #24292e; display: inline-block;">🤖 <strong>Trenches Gaming LTD</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2020 - Jan 2022, Southampton, UK, Remote)</span></h3>
+    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #f0e7f9; color: #24292e; display: inline-block;">🤖 <strong>HarborForge Gaming LTD</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2020 - Jan 2022, Southampton, UK, Remote)</span></h3>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Led robot game with ML Agents for adaptive NPCs and developed mobile-optimized shaders.</li>
       <li>Designed space-themed parking game and cinematic levels for an animated series.</li>
