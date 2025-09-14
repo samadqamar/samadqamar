@@ -14,6 +14,7 @@
 Senior Unity Game Developer and Designer with multiple published games for all Desktop platforms, WebGL, AppStore and on GooglePlay Store. I have 8+ years of progressive experience spanning Multiplayer programming, AR/VR games, Level Design, 3D Modelling, Blockchain Integration and Machine Learning. 
 </br>
 📍 Shah Alam, Malaysia </br>  
+<a href="[mailto:samadqamar755@gmail.com](https://samadqamar.vercel.app/)"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Website"/></a><br>
   <a href="mailto:samadqamar755@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a><br>
 <a href="https://www.linkedin.com/in/samad-qamar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a><br>
 <a href="https://www.instagram.com/_unbound_x?igsh=NmJ6MzV4bng4eHB3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram" alt="Instagram"/></a><br>
