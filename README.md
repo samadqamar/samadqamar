@@ -16,7 +16,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
 📍 Shah Alam, Malaysia </br>  
 <a href="https://samadqamar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
+</a><br>
   <a href="mailto:samadqamar755@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a><br>
 <a href="https://www.linkedin.com/in/samad-qamar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a><br>
 <a href="https://www.instagram.com/_unbound_x?igsh=NmJ6MzV4bng4eHB3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram" alt="Instagram"/></a><br>
