@@ -8,7 +8,7 @@
 <img align="right" alt="Profile Image" width="500" src="https://github.com/user-attachments/assets/06eb19c5-c790-4c9e-83a9-9005d79eeb18">
 
 <div>
-  <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">🌟About Me</h3>
+  <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">About Me</h3>
 </div>
 <div align="left">
 Senior Unity Game Developer and Designer with multiple published games for all Desktop platforms, WebGL, AppStore and on GooglePlay Store. I have 8+ years of progressive experience spanning Multiplayer programming, AR/VR games, Level Design, 3D Modelling, Blockchain Integration and Machine Learning. 
@@ -25,7 +25,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
 </br>
 </br>
 <div>
-  <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">🛠️ Skills</h3>
+  <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">Skills</h3>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="height: 40px;"/>
@@ -71,7 +71,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
 
 <div style="display: grid; gap: 20px; padding: 10px;">
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #e6f3fa; color: #24292e; display: inline-block;">🎮 <strong>Voxan Solution Sdn Bhd</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2025 - Present, Kuala Lumpur, Malaysia)</span></h3>
+    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #e6f3fa; color: #24292e; display: inline-block;"><strong>Voxan Solution Sdn Bhd</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2025 - Present, Kuala Lumpur, Malaysia)</span></h3>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Built Android shooting game and Hill Climb Racing clone with Web3 integration on BSC.</li>
       <li>Developed Smart VR arena in Unity, syncing real-world spatial data.</li>
@@ -80,7 +80,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #fef6e7; color: #24292e; display: inline-block;">🚀 <strong>GateGames</strong> <span style="font-size: 0.9em; color: #586069;">(Mar 2023 - Dec 2024, Hanoi, Vietnam, Remote)</span></h3>
+    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #fef6e7; color: #24292e; display: inline-block;"><strong>GateGames</strong> <span style="font-size: 0.9em; color: #586069;">(Mar 2023 - Dec 2024, Hanoi, Vietnam, Remote)</span></h3>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Developed <em>Stellaverse</em> (MMO RPG) and <em>Galixity</em> (shooter) with Web3 and cross-platform multiplayer.</li>
       <li>Built dashboards for NPC, quest, and reward management using Firebase.</li>
@@ -88,7 +88,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #e7f4e9; color: #24292e; display: inline-block;">🏟️ <strong>SilverBack Events</strong> <span style="font-size: 0.9em; color: #586069;">(Feb 2022 - Jan 2023, Brisbane, Australia, Contract)</span></h3>
+    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #e7f4e9; color: #24292e; display: inline-block;"><strong>SilverBack Events</strong> <span style="font-size: 0.9em; color: #586069;">(Feb 2022 - Jan 2023, Brisbane, Australia, Contract)</span></h3>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Created digital twins for arenas and exhibition halls, supporting 5,000+ concurrent users with Mirror networking.</li>
       <li>Implemented real-time user tracking and dynamic content streaming with PlayFab and AssetBundles.</li>
@@ -96,7 +96,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #f0e7f9; color: #24292e; display: inline-block;">🤖 <strong>HarborForge Gaming LTD</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2020 - Jan 2022, Southampton, UK, Remote)</span></h3>
+    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #f0e7f9; color: #24292e; display: inline-block;"><strong>HarborForge Gaming LTD</strong> <span style="font-size: 0.9em; color: #586069;">(Jan 2020 - Jan 2022, Southampton, UK, Remote)</span></h3>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Led robot game with ML Agents for adaptive NPCs and developed mobile-optimized shaders.</li>
       <li>Designed space-themed parking game and cinematic levels for an animated series.</li>
@@ -104,7 +104,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
   </div>
 
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s;">
-    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #fce7e9; color: #24292e; display: inline-block;">🎨 <strong>Pixel Ingot Games</strong> <span style="font-size: 0.9em; color: #586069;">(Oct 2016 - Present)</span></h3>
+    <h3 style="margin: 0; padding: 5px 10px; border-radius: 5px; background: #fce7e9; color: #24292e; display: inline-block;"><strong>Pixel Ingot Games</strong> <span style="font-size: 0.9em; color: #586069;">(Oct 2016 - Present)</span></h3>
     <ul style="margin-top: 10px; padding-left: 20px;">
       <li>Built <em>Golden Inuverse</em> (Web3 MMO), <em>Kompete</em> clone, and games on Steam, iOS, Android.</li>
       <li>Developed large-scale games like a zombie apocalypse and farming simulator with DOTS and Firebase.</li>
