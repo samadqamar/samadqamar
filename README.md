@@ -1,6 +1,6 @@
 <img width="2305" height="500" alt="bg" src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" />
 
-# 👋 Samad Qamar
+# Samad Qamar
 
 <div>
   <h3 style="position: absolute; bottom: 10px; color: #ffffff; text-shadow: 2px 2px 4px #000000;">Senior Unity Game Developer | Blockchain & AR/VR Specialist</h3>
@@ -66,7 +66,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
   <img src="https://img.shields.io/badge/UI%20Toolkit-000000?style=for-the-badge&logo=unity&logoColor=white" alt="UI Toolkit" style="height: 40px;"/>
 </div>
 
-## 💼 Experience
+## Experience
 
 
 <div style="display: grid; gap: 20px; padding: 10px;">
@@ -113,7 +113,7 @@ Senior Unity Game Developer and Designer with multiple published games for all D
 </div>
 
 
-## 📸 Showcase
+## Showcase
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px; justify-items: center; padding: 10px;">
   <img style="width: 270px; height: 160px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-05-19 031906" src="https://github.com/user-attachments/assets/ab1a2296-687f-4861-9d29-cc53f224c7f8" />
   <img style="width: 270px; height: 160px; object-fit: cover; border-radius: 8px;" alt="Screenshot 2023-12-22 223641" src="https://github.com/user-attachments/assets/5487f334-62fd-48ef-9889-e38a090e7eaa" />
@@ -141,11 +141,11 @@ Senior Unity Game Developer and Designer with multiple published games for all D
   <img style="width: 270px; height: 160px; object-fit: cover; border-radius: 8px;" alt="Annotation 2025-04-12 022510" src="https://github.com/user-attachments/assets/93672274-6271-4942-9bc7-d3f6515c514f" />
 </div>
 
-## 🎓 Education
+## Education
 **BSc Computer Science**  
 University of South Asia (2018-2022)
 
-## 📬 Connect
+## Connect
 <div align="center">
 <a href="https://samadqamar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
